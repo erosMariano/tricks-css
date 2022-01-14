@@ -9,6 +9,6 @@
 ### <a href="./button-with-loading">Button Loading<a>
 <img src="./button-with-loading/button-loading.gif">
 
-## 2 - Pagination
+## 3 - Pagination
 ### <a href="./pagination">Pagination<a>
-<img src="../pagination/pagination.gif">
+<img src="./pagination/pagination.gif">
