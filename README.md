@@ -12,3 +12,7 @@
 ## 3 - Pagination
 ### <a href="./pagination">Pagination<a>
 <img src="./pagination/pagination.gif">
+
+## 3 - Cookies
+### <a href="./cookies-privacidade">Cookies de Privacidade<a>
+<img src="./cookies-privacidade/video.gif">
