@@ -16,3 +16,8 @@
 ## 3 - Cookies
 ### <a href="./cookies-privacidade">Cookies de Privacidade<a>
 <img src="./cookies-privacidade/video.gif">
+
+## 3 - Fancybox
+### <a href="./Fancybox">Cookies de Privacidade<a>
+<img src="./Fancybox/img/banner.gif">
+
